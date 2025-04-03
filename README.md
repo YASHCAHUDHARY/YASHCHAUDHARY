@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Chaudhary</h1>
 <h3 align="center">Microsoft Certified Azure Data Engineer with 3.3+ years of experience in building and optimizing data pipelines using Azure Data Factory, SQL Database, and Synapse Analytics. Skilled in ETL processes, data integration, and creating secure, scalable data solutions. Proficient in automating workflows, ensuring data quality, and improving data efficiency. Strong team collaborator, delivering actionable insights and cost-effective strategies to meet business goals.</h3>
-<img align="right" alt="coding" width="300" src="C:\Users\Hp\Pictures\Screenshots\Screenshot 2025-04-03 223337.png"</img>
+<img align="right" alt="coding" width="300" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#fromView=keyword&page=1&position=0&uuid=308fcd70-fc9d-4591-8b8a-a006e9f26652&query=Cartoon+Software+Engineer"</img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sak23github&label=Profile%20views&color=0e75b6&style=flat" alt="sak23github" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yashsanjaychaudhary/)
