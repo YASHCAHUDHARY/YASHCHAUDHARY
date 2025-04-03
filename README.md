@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Chaudhary</h1>
 <h3 align="center">Microsoft Certified Azure Data Engineer with 3.3+ years of experience in building and optimizing data pipelines using Azure Data Factory, SQL Database, and Synapse Analytics. Skilled in ETL processes, data integration, and creating secure, scalable data solutions. Proficient in automating workflows, ensuring data quality, and improving data efficiency. Strong team collaborator, delivering actionable insights and cost-effective strategies to meet business goals.</h3>
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"</img>
+<img align="right" alt="coding" width="300" src="C:\Users\Hp\Pictures\Screenshots\Screenshot 2025-04-03 223337.png"</img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sak23github&label=Profile%20views&color=0e75b6&style=flat" alt="sak23github" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yashsanjaychaudhary/)
